@@ -2,8 +2,15 @@ header {
     background-color: green;
 }
 h2 {
-    background-color:rgb(0, 187, 255) ;
+    margin:0%;
+    font-size: 34px;
+    text-decoration: underline;
+    background-color:rgb(18, 16, 165) ;
     text-align: center;
+    color:rgb(199, 225, 234)
+    
+    
+
 }
 .center {
     display: block;
@@ -12,8 +19,8 @@ h2 {
     width: 60%
 }
 h3 {
-    background-color: rgb(226, 43, 223);
-    text-align: center;
-    font: red;
-    
+    margin:0%;
+    background-color: rgb(31, 82, 108);
+    font-size: 24px;
+    color: rgb(204, 204, 67);
 }
